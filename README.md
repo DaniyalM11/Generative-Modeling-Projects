@@ -1,1 +1,1 @@
-# Stable-Diffusion_Projects
+# Generative-Models
